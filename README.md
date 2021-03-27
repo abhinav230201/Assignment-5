@@ -11,7 +11,7 @@
 
 **Faculty Name-** Dr. Mohammad Javed IIIT Allahabad
 
-**Mentor Name-** Md. Meraz
+**Mentor Name-** Sir Bulla Rajesh
 
 ---
 ## Problem Statement
