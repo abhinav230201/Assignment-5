@@ -1,7 +1,7 @@
-# DAA Assingment 
+# DAA Assignment 
 #### Team Members
 
-|Enrollment No.|Name|GithubId|
+|Enrollment No.|Name|Github_Id|
 |--------------|----|--------|
 |IIT2019098|Abhinav|abhinav230201|
 |IIT2019097|Harsh Sharma|harsh12-hub|
